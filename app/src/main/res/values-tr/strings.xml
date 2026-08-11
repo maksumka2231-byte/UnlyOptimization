@@ -1,0 +1,34 @@
+<resources>
+    <!-- Türkçe (Turkish) -->
+    <string name="app_name">Unly Optimization</string>
+    <string name="boost">GÜÇLENDIR</string>
+    <string name="monitor">İZLEYİCİ</string>
+    <string name="tools">ARAÇLAR</string>
+    <string name="settings">AYARLAR</string>
+    <string name="your_games">Oyunlarınız</string>
+    <string name="freed_memory">%d MB Boşaltıldı</string>
+    <string name="launch_game">PUBG Başlat</string>
+    <string name="cpu_usage">CPU Kullanımı</string>
+    <string name="ram_usage">RAM Kullanımı</string>
+    <string name="temperature">Sıcaklık</string>
+    <string name="fps">FPS</string>
+    <string name="ping">Ping</string>
+    <string name="game_mode">Oyun Modu</string>
+    <string name="enable">Etkinleştir</string>
+    <string name="ram_cleaner">RAM Temizleyici</string>
+    <string name="clean">Temizle</string>
+    <string name="app_manager">Uygulama Yöneticisi</string>
+    <string name="open">Aç</string>
+    <string name="ping_test">Ping Testi</string>
+    <string name="check">Kontrol Et</string>
+    <string name="network_optimizer">Ağ Optimizer</string>
+    <string name="optimize">Optimize Et</string>
+    <string name="auto_boost_on_game_launch">Oyun Başlangıcında Otomatik Güçlendir</string>
+    <string name="auto_boost_desc">Başlangıçta otomatik olarak optimize et</string>
+    <string name="language">Dil</string>
+    <string name="telegram_channel">Telegram Kanalı</string>
+    <string name="about">Hakkında</string>
+    <string name="version">Sürüm 1.0.0</string>
+    <string name="license">Lisans: Ücretsiz</string>
+    <string name="accessibility_service_description">Oyun başlatılırken otomatik güçlendirme hizmeti</string>
+</resources>

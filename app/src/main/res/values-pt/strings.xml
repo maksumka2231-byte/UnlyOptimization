@@ -1,0 +1,34 @@
+<resources>
+    <!-- Português (Portuguese) -->
+    <string name="app_name">Unly Optimization</string>
+    <string name="boost">IMPULSIONAR</string>
+    <string name="monitor">MONITOR</string>
+    <string name="tools">FERRAMENTAS</string>
+    <string name="settings">CONFIGURAÇÕES</string>
+    <string name="your_games">Seus Jogos</string>
+    <string name="freed_memory">Liberado %d MB</string>
+    <string name="launch_game">Iniciar PUBG</string>
+    <string name="cpu_usage">Uso de CPU</string>
+    <string name="ram_usage">Uso de RAM</string>
+    <string name="temperature">Temperatura</string>
+    <string name="fps">FPS</string>
+    <string name="ping">Ping</string>
+    <string name="game_mode">Modo de Jogo</string>
+    <string name="enable">Ativar</string>
+    <string name="ram_cleaner">Limpador de RAM</string>
+    <string name="clean">Limpar</string>
+    <string name="app_manager">Gerenciador de Aplicativos</string>
+    <string name="open">Abrir</string>
+    <string name="ping_test">Teste de Ping</string>
+    <string name="check">Verificar</string>
+    <string name="network_optimizer">Otimizador de Rede</string>
+    <string name="optimize">Otimizar</string>
+    <string name="auto_boost_on_game_launch">Impulsão Automática ao Iniciar Jogo</string>
+    <string name="auto_boost_desc">Otimizar automaticamente ao iniciar</string>
+    <string name="language">Idioma</string>
+    <string name="telegram_channel">Canal do Telegram</string>
+    <string name="about">Sobre</string>
+    <string name="version">Versão 1.0.0</string>
+    <string name="license">Licença: Gratuita</string>
+    <string name="accessibility_service_description">Serviço para impulsão automática de jogos ao iniciar</string>
+</resources>

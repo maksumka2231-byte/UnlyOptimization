@@ -1,0 +1,34 @@
+<resources>
+    <!-- Русский (Russian) -->
+    <string name="app_name">Unly Optimization</string>
+    <string name="boost">БУСТ</string>
+    <string name="monitor">МОНИТОР</string>
+    <string name="tools">ИНСТРУМЕНТЫ</string>
+    <string name="settings">НАСТРОЙКИ</string>
+    <string name="your_games">Ваши игры</string>
+    <string name="freed_memory">Освобождено %d МБ</string>
+    <string name="launch_game">Запустить PUBG</string>
+    <string name="cpu_usage">Использование CPU</string>
+    <string name="ram_usage">Использование RAM</string>
+    <string name="temperature">Температура</string>
+    <string name="fps">FPS</string>
+    <string name="ping">Пинг</string>
+    <string name="game_mode">Режим игры</string>
+    <string name="enable">Включить</string>
+    <string name="ram_cleaner">Очистка RAM</string>
+    <string name="clean">Очистить</string>
+    <string name="app_manager">Менеджер приложений</string>
+    <string name="open">Открыть</string>
+    <string name="ping_test">Тест пинга</string>
+    <string name="check">Проверить</string>
+    <string name="network_optimizer">Оптимизация сети</string>
+    <string name="optimize">Оптимизировать</string>
+    <string name="auto_boost_on_game_launch">Автобуст при запуске игры</string>
+    <string name="auto_boost_desc">Автоматически оптимизировать при запуске</string>
+    <string name="language">Язык</string>
+    <string name="telegram_channel">Telegram канал</string>
+    <string name="about">О приложении</string>
+    <string name="version">Версия 1.0.0</string>
+    <string name="license">Лицензия: Бесплатная</string>
+    <string name="accessibility_service_description">Сервис для автоматического буста при запуске игр</string>
+</resources>

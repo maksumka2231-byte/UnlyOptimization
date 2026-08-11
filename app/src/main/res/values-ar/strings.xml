@@ -1,0 +1,34 @@
+<resources>
+    <!-- العربية (Arabic) -->
+    <string name="app_name">Unly Optimization</string>
+    <string name="boost">تسريع</string>
+    <string name="monitor">مراقبة</string>
+    <string name="tools">أدوات</string>
+    <string name="settings">الإعدادات</string>
+    <string name="your_games">ألعابك</string>
+    <string name="freed_memory">تم تحرير %d ميجابايت</string>
+    <string name="launch_game">تشغيل PUBG</string>
+    <string name="cpu_usage">استخدام المعالج</string>
+    <string name="ram_usage">استخدام الذاكرة</string>
+    <string name="temperature">درجة الحرارة</string>
+    <string name="fps">FPS</string>
+    <string name="ping">تأخير الاتصال</string>
+    <string name="game_mode">وضع اللعبة</string>
+    <string name="enable">تفعيل</string>
+    <string name="ram_cleaner">منظف الذاكرة</string>
+    <string name="clean">تنظيف</string>
+    <string name="app_manager">مدير التطبيقات</string>
+    <string name="open">فتح</string>
+    <string name="ping_test">اختبار التأخير</string>
+    <string name="check">فحص</string>
+    <string name="network_optimizer">محسّن الشبكة</string>
+    <string name="optimize">تحسين</string>
+    <string name="auto_boost_on_game_launch">التسريع التلقائي عند بدء اللعبة</string>
+    <string name="auto_boost_desc">تحسين تلقائي عند البدء</string>
+    <string name="language">اللغة</string>
+    <string name="telegram_channel">قناة تيليجرام</string>
+    <string name="about">حول</string>
+    <string name="version">الإصدار 1.0.0</string>
+    <string name="license">الترخيص: مجاني</string>
+    <string name="accessibility_service_description">خدمة التسريع التلقائي للألعاب عند البدء</string>
+</resources>

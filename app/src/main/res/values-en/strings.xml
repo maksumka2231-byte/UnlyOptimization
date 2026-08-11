@@ -1,0 +1,34 @@
+<resources>
+    <!-- English -->
+    <string name="app_name">Unly Optimization</string>
+    <string name="boost">BOOST</string>
+    <string name="monitor">MONITOR</string>
+    <string name="tools">TOOLS</string>
+    <string name="settings">SETTINGS</string>
+    <string name="your_games">Your Games</string>
+    <string name="freed_memory">Freed %d MB</string>
+    <string name="launch_game">Launch PUBG</string>
+    <string name="cpu_usage">CPU Usage</string>
+    <string name="ram_usage">RAM Usage</string>
+    <string name="temperature">Temperature</string>
+    <string name="fps">FPS</string>
+    <string name="ping">Ping</string>
+    <string name="game_mode">Game Mode</string>
+    <string name="enable">Enable</string>
+    <string name="ram_cleaner">RAM Cleaner</string>
+    <string name="clean">Clean</string>
+    <string name="app_manager">App Manager</string>
+    <string name="open">Open</string>
+    <string name="ping_test">Ping Test</string>
+    <string name="check">Check</string>
+    <string name="network_optimizer">Network Optimizer</string>
+    <string name="optimize">Optimize</string>
+    <string name="auto_boost_on_game_launch">Auto Boost on Game Launch</string>
+    <string name="auto_boost_desc">Automatically optimize on launch</string>
+    <string name="language">Language</string>
+    <string name="telegram_channel">Telegram Channel</string>
+    <string name="about">About</string>
+    <string name="version">Version 1.0.0</string>
+    <string name="license">License: Free</string>
+    <string name="accessibility_service_description">Service for automatic game boost on launch</string>
+</resources>
